@@ -11,4 +11,4 @@ The final version of the submitted project.
 Results from 2 different sessions - connections with the modem.
 
 ### userApplication: 
-Java files
+Complete Java project
